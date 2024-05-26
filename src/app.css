@@ -1,0 +1,189 @@
+:root {
+  --main-bg-color: #000;
+  --main-color: #7FFB4E;
+}
+
+html {
+  background-color: var(--main-bg-color);
+  color: var(--main-color);
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+section {
+  margin: 50px 0;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+h2 {
+  font-size: 30px;
+}
+
+h3 {
+  font-size: 24px;
+}
+
+input {
+  background-color: var(--main-bg-color);
+  background-image: none;
+  background-color: transparent;
+  border: 1px solid var(--main-color);
+  border-radius: 2px;
+  box-shadow: none;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  color: var(--main-color);
+  font-family: "Courier New";
+  font-size: 20px;
+  flex: 1;
+  outline: none;
+  padding: 20px;
+}
+
+input::placeholder {
+  color: var(--main-color);
+  opacity: 0.5;
+  font-family: "Courier New";
+  font-size: 20px;
+}
+
+a,
+a:visited,
+a:hover {
+  color: var(--main-color);
+  display: inline-block;
+  text-decoration: none;
+}
+
+button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+}
+
+button:disabled {
+  opacity: 0.25;
+  cursor: default;
+}
+
+button,
+.button-style-link,
+.button-style-link:visited,
+.button-style-link:hover {
+  border: 1px solid var(--main-color);
+  border-radius: 2px;
+  padding: 20px;
+}
+
+.help-section,
+.timer-section {
+  float: right;
+}
+
+.help-button {
+  border: 2px solid var(--main-color);
+  border-radius: 50px;
+  cursor: pointer;
+  float: right;
+  font-weight: bold;
+  font-size: 24px;
+  margin-right: 15px;
+  padding: 5px 12px;
+  opacity: 1;
+}
+
+.help-button.closed {
+  opacity: 0.5;
+}
+
+.help-blurb,
+.timer {
+  float: right;
+  opacity: 1;
+}
+
+.help-blurb {
+  background-color: var(--main-bg-color);
+  border: 1px solid var(--main-color);
+  border-radius: 2px;
+  padding: 0 20px;
+  width: 300px;
+}
+
+.timer {
+  padding-top: 10px;
+  width: 400px;
+}
+
+.hidden {
+  cursor: default;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.form {
+  display: flex;
+}
+
+.error {
+  font-size: 16px;
+  margin-top: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+}
+
+.button-style-link {
+  transition: margin 100ms;
+}
+
+.button-style-link:hover {
+  font-weight: bold;
+}
+
+.classic-link {
+  border-bottom: 1px solid var(--main-color);
+}
+
+.main {
+  margin: 100px auto 0;
+  width: 750px;
+}
+
+.challenge {
+  margin-top: 0px;
+  padding-top: 0px;
+  position: relative;
+}
+
+.challenge-border {
+  border-top: 1px solid var(--main-color);
+}
+
+.blocker {
+  background: var(--main-color);
+  height: 200px;
+  position: absolute;
+  top: 0;
+  width: 400px;
+}
+
+.password-img {
+  background-image: url("/images/pw.png");
+  background-size: contain;
+  height: 50px;
+  margin: 0 auto;
+  visibility: hidden;
+  width: 400px;
+}
+
+.hspacer {
+  width: 100%;
+  height: 0;
+}
