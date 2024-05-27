@@ -8,48 +8,75 @@
   </section>
   <section>
     <Challenge
-      flag={"picoCTF{p33k_@_b00_d4ca652e}"}
       name="Scan me!"
-      description="Baum"
+      description="Wenn man den Wald vor lauter Bäumen nicht mehr sieht."
+      flag={"picoCTF{p33k_@_b00_d4ca652e}"}
       file="/week2/qr.png"
     />
-
     <Challenge
-      flag={"picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}"}
       name="Secret of the polyblob"
       file="/week2/flag2of2-final.pdf"
+      flag={"picoCTF{f1u3n7_1n_pn9_&_pdf_53b741d6}"}
     />
-
     <Challenge
-      flag={"flag{wow!_data_is_cool}"}
       name="Minions 1"
       description="!!!!!!!!!"
+      flag={"flag{wow!_data_is_cool}"}
       file="/week2/minions1.jpg"
     />
-
     <Challenge
-      flag={"picoCTF{ac0072c423ee13bfc0b166af72e25b61}"}
       name="Matrjoschka"
-      description="!!!!!!!!!"
+      description="...and it goes on and on and on..."
+      flag={"picoCTF{ac0072c423ee13bfc0b166af72e25b61}"}
       file="/week2/matrjoschka.png"
     />
     <Challenge
-      flag={"flag{never_change_copyright}"}
       name="Pinguin"
-      description="!!!!!!!!!"
+      description="!!!!"
+      flag={"flag{never_change_copyright}"}
       file="/week2/pinguin.jpg"
     />
     <Challenge
-      flag={"picoCTF{more_than_m33ts_the_3y3657BaB2C}"}
       name="Garten"
       description="!!!!!!!!!"
+      flag={"picoCTF{more_than_m33ts_the_3y3657BaB2C}"}
       file="/week2/garden.jpg"
     />
     <Challenge
-      flag={"picoCTF{ME74D47A_HIDD3N_3b9209a2}"}
       name="64Basen"
       description="!!!!!!!!!"
+      flag={"picoCTF{ME74D47A_HIDD3N_3b9209a2}"}
       file="/week2/64basen.jpg"
+    />
+    <Challenge
+      name="Minions 2"
+      description="Manchmal gibt’s hier nicht alle Dateien die man braucht. Und nicht aufgeben, selbst wenn euch etwas repetitiv vorkommt"
+      flag={"CTF{M1NI0NS_ARE_C00L}"}
+      file="/week2/minions2.png"
+    />
+    <Challenge
+      name="Do you have a license?"
+      description=""
+      flag={"picoCTF{the_m3tadata_1s_modified}"}
+      file="/week2/schlumpf.jpg"
+    />
+    <Challenge
+      name="Empty Text"
+      description="Leerzeichen sind nicht gleich Leerzeichen..."
+      flag={"CTFlearn{If_y0u_r3/d_thi5_you_pa553d}"}
+      file="/week2/TheMessage.txt"
+    />
+    <Challenge
+      name="Tux!"
+      description="And I would walk 500 miles..."
+      flag={"CTFlearn{Linux_Is_Awesome}"}
+      file="/week2/tux.jpg"
+    />
+    <Challenge
+      name="Abandoned Place"
+      description="Der Schlüssel liegt in der Auflösung"
+      flag={"CTFlearn{urban_exploration}"}
+      file="/week2/abandonedStreet.jpg"
     />
   </section>
 </main>
