@@ -1,9 +1,12 @@
 # TODO
 
+## wichtig
+
 - [ ] Download icon
-- [ ] Challenge Descriptions
-- [ ] submit on enter
+- [ ] minions 2 bild url ändern und checken ob richtig eingebunden
+
+## weniger relevant
+
 - [ ] woche 1 umziehen
 - [ ] schülerkolleg ohne rand links
-- [ ] minions 2 bild url ändern und checken ob richtig eingebunden
 - [ ] markieren, wenn challenge schon gelöst wurde

@@ -20,7 +20,7 @@
     />
     <Challenge
       name="Minions 1"
-      description="!!!!!!!!!"
+      description="„Bananaaa!“"
       flag={"flag{wow!_data_is_cool}"}
       file="/week2/minions1.jpg"
     />
@@ -32,31 +32,29 @@
     />
     <Challenge
       name="Pinguin"
-      description="!!!!"
+      description="Wer wohl dieses Foto gemacht hat?"
       flag={"flag{never_change_copyright}"}
       file="/week2/pinguin.jpg"
     />
     <Challenge
       name="Garten"
-      description="!!!!!!!!!"
       flag={"picoCTF{more_than_m33ts_the_3y3657BaB2C}"}
       file="/week2/garden.jpg"
     />
     <Challenge
       name="64Basen"
-      description="!!!!!!!!!"
+      description="meta"
       flag={"picoCTF{ME74D47A_HIDD3N_3b9209a2}"}
       file="/week2/64basen.jpg"
     />
     <Challenge
       name="Minions 2"
-      description="Manchmal gibt’s hier nicht alle Dateien die man braucht. Und nicht aufgeben, selbst wenn euch etwas repetitiv vorkommt"
+      description="Sorry, wir konnten euch leider nicht alle Dateien hochladen..."
       flag={"CTF{M1NI0NS_ARE_C00L}"}
       file="/week2/minions2.png"
     />
     <Challenge
       name="Do you have a license?"
-      description=""
       flag={"picoCTF{the_m3tadata_1s_modified}"}
       file="/week2/schlumpf.jpg"
     />
@@ -74,7 +72,7 @@
     />
     <Challenge
       name="Abandoned Place"
-      description="Der Schlüssel liegt in der Auflösung"
+      description="Der Schlüssel liegt in der Auflösung."
       flag={"CTFlearn{urban_exploration}"}
       file="/week2/abandonedStreet.jpg"
     />
