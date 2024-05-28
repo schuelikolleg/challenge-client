@@ -1,5 +1,8 @@
 <script lang="ts">
-  import "@fortawesome/fontawesome-free/css/all.min.css";
+  import Fa from 'svelte-fa';
+  import { faLink, faDownload } from '@fortawesome/free-solid-svg-icons'
+
+
   import { push } from "svelte-spa-router";
 
   export let name: string;
@@ -28,14 +31,14 @@
     <a><h3>{name}</h3></a>
     {#if link !== ""}
       <a href={link} target="_blank">
-        <i class="fa-regular fa-link" />
+        <Fa icon="{faLink}" />
       </a>
     {/if}
     {#if file !== ""}
       <a
         href={file}
         download={file.split("/").at(-1)}
-        class="download-btn button"><i class="fa-regular fa-download" /></a
+        class="download-btn button"><Fa icon="{faDownload}" /></a
       >
     {/if}
   </div>
