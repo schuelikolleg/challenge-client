@@ -10,16 +10,16 @@
       <li>
         Terminal Commands
         <a
-          href="/week2/terminal-challenge.zip"
-          download={"/week2/terminalCommands.pdf".split("/").at(-1)}
+          href="/week2/cheatSheetTerminalCommands.pdf"
+          download={"/week2/cheatSheetTerminalCommands.pdf".split("/").at(-1)}
           class="download-btn button"><Fa icon={faDownload} /></a
         >
       </li>
       <li>
         Tools
         <a
-          href="/week2/tools.pdf"
-          download={"/week2/tools.pdf".split("/").at(-1)}
+          href="/week2/cheatSheetTools.pdf"
+          download={"/week2/cheatSheetTools.pdf".split("/").at(-1)}
           class="download-btn button"><Fa icon={faDownload} /></a
         >
       </li>
