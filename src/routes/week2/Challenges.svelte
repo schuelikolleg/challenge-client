@@ -44,7 +44,7 @@
     <Challenge
       name="64Basen"
       description="meta"
-      flag={"picoCTF{ME74D47A_HIDD3N_3b9209a2}"}
+      flag={"picoCTF{ME74D47A_HIDD3N_6a9f5ac4}"}
       file="/week2/64basen.jpg"
     />
     <Challenge
