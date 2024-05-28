@@ -1,24 +1,31 @@
 <script lang="ts">
-    import link from "svelte-spa-router";
+  import Fa from "svelte-fa";
+  import { faDownload } from "@fortawesome/free-solid-svg-icons";
 </script>
 
 <main>
-    <section>
-        <h2>Woche 2</h2>
-        <ul>
-            <li>Terminal</li>
-            <li>Forensics</li>
-        </ul>
-    </section>
-    <section>
-        <a class="button-style-link" href="#/week2/cheat-sheet">Cheat sheet</a>
-        <a class="button-style-link" href="#/week2/terminal">Terminal</a>
-        <a class="button-style-link" href="#/week2/challenges">Challenges</a>
-    </section>
+  <section>
+    <h2>Cheat Sheets</h2>
+    <ul>
+      <li>
+        Terminal Commands
+        <a
+          href="/week2/terminal-challenge.zip"
+          download={"/week2/terminalCommands.pdf".split("/").at(-1)}
+          class="download-btn button"><Fa icon={faDownload} /></a
+        >
+      </li>
+      <li>
+        Tools
+        <a
+          href="/week2/tools.pdf"
+          download={"/week2/tools.pdf".split("/").at(-1)}
+          class="download-btn button"><Fa icon={faDownload} /></a
+        >
+      </li>
+    </ul>
+  </section>
 </main>
 
 <style>
-
-
-
 </style>
