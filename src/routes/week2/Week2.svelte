@@ -23,6 +23,8 @@
     <a class="button-style-link" href="#/week2/cheat-sheet">Cheat Sheets</a>
 
     <a class="button-style-link" href="#/week2/challenges">Challenges</a>
+
+    <a class="button-style-link" href="http://172.20.20.10/" target="_blank">Zum Terminal</a>
   </section>
 </main>
 
