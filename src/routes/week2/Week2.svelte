@@ -20,7 +20,7 @@
     </ul>
   </section>
   <section>
-    <a class="button-style-link" href="#/week2/cheat-sheet">Cheat Sheets</a>
+    <a class="button-style-link" href="#/cheat-sheet">Cheat Sheets</a>
 
     <a class="button-style-link" href="#/week2/challenges">Challenges</a>
 
