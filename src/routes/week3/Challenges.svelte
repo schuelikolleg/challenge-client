@@ -50,6 +50,7 @@
     <Challenge
       name="Wave a flag"
       flag={"picoCTF{et_tu?_1ac5f3d7920a85610afeb2572831daa8}"}
+      file="/week3/warm"
     />
     <Challenge
       name="Rock 'n' roll"
