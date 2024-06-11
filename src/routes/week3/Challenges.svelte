@@ -31,8 +31,9 @@
     />
     <Challenge
       name="Where are the robots?"
-      description={"https://jupiter.challenges.picoctf.org/problem/56830/ \n Google, Bing & Co sind nicht in der Lage, diese Flag zu finden 😔"}
+      description={"Google, Bing & Co sind nicht in der Lage, diese Flag zu finden 😔"}
       flag={"picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}"}
+      link="https://jupiter.challenges.picoctf.org/problem/56830/"
     />
     <Challenge
       name="Tab, Tab, Attack"
