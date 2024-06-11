@@ -31,7 +31,7 @@
     />
     <Challenge
       name="Where are the robots?"
-      description={"<a href='https://jupiter.challenges.picoctf.org/problem/56830/'> https://jupiter.challenges.picoctf.org/problem/56830/ </a> \n Google, Bing & Co sind nicht in der Lage, diese Flag zu finden 😔"}
+      description={"https://jupiter.challenges.picoctf.org/problem/56830/ \n Google, Bing & Co sind nicht in der Lage, diese Flag zu finden 😔"}
       flag={"picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}"}
     />
     <Challenge
