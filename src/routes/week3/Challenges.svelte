@@ -9,18 +9,18 @@
   <section>
     <Challenge
       name="Mod 26"
-      description={"TODO Beschreibung fehlt: cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_Ncualgvd}"}
+      description={"Das sieht mir Lateinisch aus: cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_Ncualgvd}"}
       flag={"picoCTF{next_time_I'll_try_2_rounds_of_rot13_Aphnytiq}"}
     />
     <Challenge
       name="Interencdec"
-      description={"Wir mögen Basen und so Flag-Format: picoCTF{…}"}
+      description={"Wir mögen Basen und so \n Flag-Format: picoCTF{…}"}
       flag={"picoCTF{caesar_d3cr9pt3d_b204adc6}"}
-      file="/week3/enc_dec"
+      file="/week3/enc_flag"
     />
     <Challenge
       name="Can you read the flag?"
-      description={"⠏⠊⠉⠕⠉⠞⠋{⠃⠗⠁⠂⠇⠇⠑⠸⠊⠎⠸⠲⠸⠉⠴⠕⠇⠸⠂⠝⠧⠒⠝⠞⠊⠴⠝} - Hinweis: CyberChef ist ein sehr cooles Tool"}
+      description={"⠏⠊⠉⠕⠉⠞⠋{⠃⠗⠁⠂⠇⠇⠑⠸⠊⠎⠸⠲⠸⠉⠴⠕⠇⠸⠂⠝⠧⠒⠝⠞⠊⠴⠝}"}
       flag={"picoCTF{bra1lle_is_4_c0ol_1nv3nti0n}"}
     />
     <Challenge
@@ -31,18 +31,17 @@
     />
     <Challenge
       name="Where are the robots?"
-      description={"https://jupiter.challenges.picoctf.org/problem/56830/ \n Google, Bing & Co sind nicht in der Lage, diese Flag zu finden 😔"}
+      description={"<a href='https://jupiter.challenges.picoctf.org/problem/56830/'> https://jupiter.challenges.picoctf.org/problem/56830/ </a> \n Google, Bing & Co sind nicht in der Lage, diese Flag zu finden 😔"}
       flag={"picoCTF{ca1cu1at1ng_Mach1n3s_1bb4c}"}
     />
     <Challenge
       name="Tab, Tab, Attack"
       description="Tab-Completion ist schon eine feine Sache"
       flag={"picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}"}
-      file="/week3/AddadshAddadshashanammu.zip"
+      file="/week3/Addadshashanammu.zip"
     />
     <Challenge
       name="Wave a flag"
-      description={"Eine ganz neue Art der Verschlüsselung! Setze deine Entzifferung am Ende in picoCTF{…}. mlnklfnknljflfjljnjijjmmjkmljnjhmhjgjnjjjmmkjjmijhmkjhjpmkmkmljkjijnjpmhmjjgjj  (TODO fehlt hier die Python Datei?"}
       flag={"picoCTF{et_tu?_1ac5f3d7920a85610afeb2572831daa8}"}
     />
     <Challenge
@@ -59,7 +58,7 @@
     />
     <Challenge
       name="New Caesar"
-      description={"Eine ganz neue Art der Verschlüsselung! Setze deine Entzifferung am Ende in picoCTF{…}. mlnklfnknljflfjljnjijjmmjkmljnjhmhjgjnjjjmmkjjmijhmkjhjpmkmkmljkjijnjpmhmjjgjj"}
+      description={"Eine ganz neue Art der Verschlüsselung! Setze deine Entzifferung am Ende in picoCTF{…}.\n mlnklfnknljflfjljnjijjmmjkmljnjhmhjgjnjjjmmkjjmijhmkjhjpmkmkmljkjijnjpmhmjjgjj"}
       flag={"picoCTF{b1scu1ts_4nd_gr4vy_30e77291}"}
       file="week3/new_caesar.py"
     />
