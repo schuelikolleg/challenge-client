@@ -36,6 +36,12 @@
       link="https://jupiter.challenges.picoctf.org/problem/56830/"
     />
     <Challenge
+            name="Empty Text"
+            description="Leerzeichen sind nicht gleich Leerzeichen..."
+            flag={"CTFlearn{If_y0u_r3/d_thi5_you_pa553d}"}
+            file="/week2/TheMessage.txt"
+    />
+    <Challenge
       name="Tab, Tab, Attack"
       description="Tab-Completion ist schon eine feine Sache"
       flag={"picoCTF{l3v3l_up!_t4k3_4_r35t!_76266e38}"}
