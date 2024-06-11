@@ -36,10 +36,10 @@
       link="https://jupiter.challenges.picoctf.org/problem/56830/"
     />
     <Challenge
-            name="Empty Text"
-            description="Leerzeichen sind nicht gleich Leerzeichen..."
-            flag={"CTFlearn{If_y0u_r3/d_thi5_you_pa553d}"}
-            file="/week2/TheMessage.txt"
+      name="Empty Text"
+      description="Leerzeichen sind nicht gleich Leerzeichen..."
+      flag={"CTFlearn{If_y0u_r3/d_thi5_you_pa553d}"}
+      file="/week2/TheMessage.txt"
     />
     <Challenge
       name="Tab, Tab, Attack"
